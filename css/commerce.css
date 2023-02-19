@@ -1,0 +1,205 @@
+.logo{
+  height: 180px;
+  width: 230px;
+  margin-left:100px;
+}
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.icon{
+  color:#ff4c68;
+  margin-bottom:1rem;
+}
+
+.icon:hover{
+  color:#ef8172;
+}
+
+#new-arrival{
+  text-align: center;
+
+}
+.item{
+  margin-top: 10px;
+  color:lightblue;
+  font-family: 'Barlow', sans-serif;
+}
+
+
+
+.nav-link{
+  font-size: 20px;
+  padding-top: 15px;
+  display: inline-block;
+}
+#about{
+  background-color: #F5EDCE;
+  font-family: 'Arial', sans-serif;
+  padding: 5%;
+}
+
+#loginregister{
+  background-color: #F5EDCE;
+  font-family:"Montserrat-Black";
+  padding: 5%;
+  text-align: center;
+}
+
+#nav{
+  font-family:"Montserrat-Black";
+  font-size:18px;
+}
+#title{
+
+  color:black;
+  font-family: 'Barlow', sans-serif;
+  padding-top: 0px;
+}
+.navbar-brand{
+  color:white;
+}
+.nav-link{
+  color:black;
+  text-align: center;
+}
+
+#intro {
+  background-image: url("../bg.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment:fixed;
+  height: 700px;
+
+}
+.title{
+  text-align: center;
+}
+.h1-title{
+   color:white;
+padding:5% 0% 5% 10%;
+margin-top:100px;
+
+}
+
+.feature{
+text-align: center;
+padding: 6% 1%;
+font-size: 1.5em;
+}
+
+.icon{
+  color:#ff4c68;
+  margin-bottom:1rem;
+}
+
+.icon:hover{
+  color:#ef8172;
+}
+
+.img-newarrival{
+  height: 500px;
+}
+
+.card{
+  margin: 3%;
+}
+.navbar-nav{
+  margin-right: 10%;
+}
+#products{
+  text-align: center;
+  height: 700px;
+  overflow: auto;
+}
+.product{
+  background-color:#f2f2f2;
+}
+.product-img{
+  border-radius: 50%;
+  margin:3%;
+  width:400px;
+  height: 400px;
+  text-align: center;
+
+}
+
+.Name{
+  display: inline-block;
+  padding:2%;
+}
+.product-text{
+  font-family: 'Barlow', sans-serif;
+}
+.luffy{
+  display: inline-block;
+  padding:0% 10%;
+  margin:0.5%;
+}
+.naruto{
+  display: inline-block;
+  padding:0% 9%;
+  margin:1%;
+}
+
+
+.text{
+  text-align: center;
+  background-color: #F5EDCE;
+  padding: 5% 10%;
+
+}
+.text1{
+  text-align: center;
+  background-color: #F5EDCE;
+padding: 1%;
+}
+.card1{
+  padding: 3% 5%;
+}
+.facebook{
+  padding: 5%;
+}
+
+#footer{
+  text-align: center;
+  background-color: #F5EDCE;
+}
+
+.logo2{
+  width: 40px;
+  height: 25px;
+  margin: 5px;;
+}
+.logo1{
+  width: 35px;
+  height: 35px;
+  margin: 5px;
+}
+.end{
+  display: inline-block;
+  margin-top: 2%;
+  background-color: #F5EDCE;
+}
+.wallet{
+  margin-top: 10px;
+}
+.bot{
+    color: #000;
+    text-decoration: none;
+}
+ul{
+  list-style: none;
+}
+li{
+  padding:2%;
+}
+
+.fa-brands{
+  margin:10px;
+}
+.fa-solid{
+  margin:10px;
+}
